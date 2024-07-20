@@ -1,2 +1,2 @@
 # security
-springSecurityPractise
+SpringSecurityPractise
